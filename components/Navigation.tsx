@@ -1,5 +1,7 @@
 import { navItems } from "@/lib/constants";
 import Link from "next/link";
+import { ModeToggle } from "./ModeToggle";
+import ThemeToggle from "./ThemeToggle";
 
 export default function Navigation() {
   return (
@@ -26,6 +28,8 @@ export default function Navigation() {
                 {item.label}
               </Link>
             ))}
+            <ModeToggle />
+            <ThemeToggle />
           </div>
         </div>
       </div>

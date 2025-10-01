@@ -12,7 +12,7 @@ export default function Navigation() {
 
           <div className="flex-shrink-0">
             <h1 className="text-xl font-serif font-bold text-foreground">
-              IBBJ Blog
+              Drops Teológicos
             </h1>
           </div>
 

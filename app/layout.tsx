@@ -29,7 +29,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Blog IBBJ",
+  title: "Drops Teológicos",
   description: "Encontrando um grão de fé em meio ao caos.",
 };
 
